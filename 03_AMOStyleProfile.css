@@ -8,3 +8,9 @@ html {
     background: black !important;
  
 }
+
+.multi-select-outer-panel div.multi-select-box-list-item, .multi-select-outer-panel div.multi-select-box-list-item label, .multi-select-outer-panel div.multi-select-box-list-item label input, .multi-select-outer-panel div.multi-select-box-list-item label input span.input-control-text {
+    color: inherit;
+    background: #000000 !important ;
+    white-space: nowrap;
+}
