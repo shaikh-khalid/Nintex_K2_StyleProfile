@@ -1,3 +1,9 @@
+
+html {
+    font-size: 62.5%;
+    background: black !important;
+}
+
 .theme-entry a.SourceCode-Forms-Controls-Web-Button {
     background: black !important;
  
